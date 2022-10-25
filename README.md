@@ -100,4 +100,3 @@ So, after reading all this do you still wanted to apply for the position? If yes
 If you need more info you can always reach me at:
 
 - https://www.linkedin.com/in/farhan-zainudin/ - LinkedIn
-- https://t.me/Farhan_Zainudin - Telegram
