@@ -1,5 +1,14 @@
 # **Cheatsheet for AWS Tech U Associate Solutions Architect.**
 
+*2021 Update
+
+I was offered the position of Associate Professional Services Consultant in March 2021 under the Tech U Programme. There are a few things that I have done differently before and during my preparation for the interview.
+
+1. This time I applied with two AWS Certifications in hand. AWS Certified Cloud Practitioner and AWS Certified Solutions Architect — Associate. I believe that the knowledge that I have gained by doing both exams has helped me prepare more for the technical part of the interview. Is it mandatory to have? No, of course not. However, if you have the time and resources to sit for the exam I would highly recommend you to take it. It will be a good investment to jumpstart your career in the cloud.
+2. This time I reach out to AWS recruiter directly through LinkedIn and state my interest in the position. The recruiter kindly explained about the differences between Professional Services Consultant and Solutions Architect.
+3. During my preparation for the loop, I asked a couple of friends to help me do a role-play and that definitely helps. Ask them for direct feedback on your delivery and your pointers. You can also find same minded people from https://amazoninterview.coach/free-role-play-job-interviews.php.
+4. All in all, AWS is a great place to jumpstart your career in cloud and I would highly recommend the Tech U programme especially for new grads and early career talents (0–2 years of experience). It’s a unique progam that give a cohesive experience in developing your technical skills and soft skills that will help you during your actual delivery job.
+
 *This guide is created based on the author's experience on applying, preparing and going through the AWS interview session for the Tech U Associate Solutions Architect position on 2019.
 
 *Disclaimer
@@ -18,8 +27,6 @@ Yes, this is based on the job description which you can refer more from the link
 https://www.linkedin.com/jobs/view/tech-u-associate-solutions-architect-2020-malaysia-at-amazon-web-services-aws-1621238746/?originalSubdomain=my
 
 Sounds interesting? Okay now proceed.
-
-
 
 ## **How to apply?**
 
@@ -43,7 +50,7 @@ AWS will usually have a few interview stages before you were accepted to be one 
 During this phase someone from AWS will call you for an online phone interview using Amazon Chime. The session will be around 1 hour and will be split between technical, behavioral and Q&A session. Yes it is splitted into three categories, but the main questions will be about your technical knowledge. The following are the few topics that will be covered for the interview session:
 
 1. Take some time to learn [about Amazon,](https://www.amazon.jobs/about-amazon) get to know our business teams, and “meet” a few [Amazonians.](https://www.amazon.jobs/amazonians)
-2. Leadership Principles. There are 14 of them and you need to be able to relate it based on your experience in order to answer their behavioral questions. 
+2. Leadership Principles. There are 16 of them and you need to be able to relate it based on your experience in order to answer their behavioral questions. 
 3. Networking fundamentals, Security, Databases (Relational and/or NoSQL), Operating Systems (Unix, Linux, and/or Windows)
 4. Systems administration (Linux/Window), network administration (DNS, IPsec, BGP, VPN, Load Balancing), or programming (Node.JS, Java, Ruby, C#, Python, or PHP)
 5. Databases: While we don't expect any particular level of expertise with non-relational databases, you should be familiar with broad database concepts and their applications. The more you know about tradeoffs between relational and non-relational databases, the better prepared you will be.
@@ -96,7 +103,3 @@ Based on my experience, this will be your last round of interview. Wohooo! but d
 So, after reading all this do you still wanted to apply for the position? If yes, than congratulations :confetti_ball: . In my opinion, the interview should be hard because AWS is currently the market leader in Cloud Computing and they are the pioneer of it. So it's make sense right? They also provide a lot of benefits for their staff which you can find below for increasing your motivation:
 
 - https://www.amazon.jobs/en/benefits/global
-
-If you need more info you can always reach me at:
-
-- https://www.linkedin.com/in/farhan-zainudin/ - LinkedIn
